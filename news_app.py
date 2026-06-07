@@ -371,6 +371,18 @@ else:
         st.info(f"Associated Strategic Raw Materials (SRMs) [39]: {row[cols[9]]}")
 # This section is for mentioning what CRMs and SRMs are present in the selected residues.
 
+    # ================================
+    # KEY METALS & EU PRODUCERS
+    # ================================
+    st.divider()
+    st.markdown("### 🌍 Key Metals and their EU Primary Producers [39]")
+
+    st.caption(
+        "*The associated EU countries corresponding to the metals are indicative and reported from RMIS data system. They do not imply on the exclusive geographical mapping.*"
+    )
+
+    st.markdown(f"{row[cols[17]]}", unsafe_allow_html=True)
+
 # =====================================
     # DOWNLOAD SECTION
     # =====================================
