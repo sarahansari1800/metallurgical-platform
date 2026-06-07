@@ -381,7 +381,11 @@ else:
         "*The associated EU countries corresponding to the metals are indicative and reported from RMIS data system. They do not imply on the exclusive geographical mapping.*"
     )
 
-    st.markdown(f"{row[cols[17]]}", unsafe_allow_html=True)
+    # Split <br> into list items
+    items = str(row[cols[17]]).split("<br>")
+    for item in items:    
+        if item.strip():        
+            st.markdown(f"- {item.strip()}")
 
 # =====================================
     # DOWNLOAD SECTION
