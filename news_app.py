@@ -381,12 +381,10 @@ else:
         "*The associated EU countries corresponding to the metals are indicative and reported from RMIS data system. They do not imply on the exclusive geographical mapping.*"
     )
 
-    # Split based on metal pattern present in the column for better visualization.
-    items = re.split(r'(?=[A-Z][a-z]?\s[-–])', str(row[cols[17]]))
-
-    for item in items:
-        if item.strip():
-            st.markdown(f"- {item.strip()}")
+    for i in clean_text(row[cols[17]]):
+        clean_item = i.replace(";", "")  
+       # remove semicolon for better understanding
+        st.markdown(f"- {clean_item.strip()}")
 
 # =====================================
     # DOWNLOAD SECTION
