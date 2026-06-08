@@ -1,5 +1,5 @@
 "Industry or Process","Primary Source","Byproduct Stream","Process Stage of Generation","Valorization Pathways or Processing","Typical issues","Techno–Economic Aspects","End–use Applications","Associated Critical Raw Materials (CRMs)","Associated Strategic Raw Materials (SRMs)","Average Chemical Composition","Chemical Formulae","Elemental Composition","Physical State of Byproducts","Production Content","pH Level","Water Content","Key Metals and their EU Primary Producers"
-"Iron or Steel","Hematite (Fe2O3), magnetite (Fe3O4), limonite, siderite [43, 52, 23]","Blast furnace (BF) slag ","Ironmaking – Blast Furnace (BF) [10, 7, 52]","Wet or air granulation to form glassy slag, produces latent hydraulic reactivity [43]
+"Iron or Steel","Hematite (Fe2O3), magnetite (Fe3O4), limonite, siderite [43, 52, 23]","Blast Furnace (BF) slag ","Ironmaking – Blast Furnace (BF) [10, 7, 52]","Wet or air granulation to form glassy slag, produces latent hydraulic reactivity [43]
 Mechanical activation (i.e., grinding) to produce Supplementary Cementitious Material (SCM)  [38, 46]
 Accelerated carbonation with carbon dioxide sequestration leading to stabilization of reactive Ca phases [38]
 Thermal treatment for inducing crystallisation process for glass ceramics applications [43]
@@ -128,7 +128,7 @@ Fe and steel – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 Al – Greece, France, Croatia;"
-"Vanadium – bearing Steel or Iron","Titaniferous magnetite, vanadinite [23, 51]","Slags from vanadium–bearing  steel and iron industry, flue dust","Steelmaking and V recovery step [51]","Oxidation roasting (Na2CO3 or CaO) to convert V–bearing phases into soluble vandates for efficient extraction [51]
+"Vanadium–bearing steel or iron","Titaniferous magnetite, vanadinite [23, 51]","Slags from vanadium–bearing  steel and iron industry, flue dust","Steelmaking and V recovery step [51]","Oxidation roasting (Na2CO3 or CaO) to convert V–bearing phases into soluble vandates for efficient extraction [51]
 Selective leaching to dissolve V species and separate recoverable V5+ from the Fe–rich residue [51]
 Dust recirculation in BOF or EAF units to recover Fe and reduce waste generation [51]
 Magnetic separation to isolate Fe–rich material from V–enriched oxides before or after roasting [51]
@@ -155,7 +155,7 @@ Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 Zn – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal;"
-"Copper","Chalcopyrite (CuFeS2), bornite (Cu5FeS4) [53, 48]","Flue dust or ESP dust","Off–gas cleaning – roasters or smelters or converters [53, 30]","Hydrometallurgical leaching like acid or alkali, to dissolve Zn and Pb or As or Sb selectivity from oxide mixture [53,20]
+"Copper","Chalcopyrite (CuFeS2), bornite (Cu5FeS4) [53, 48]","Flue dust or Electrostatic Precipitator (ESP) dust","Off–gas cleaning – roasters or smelters or converters [53, 30]","Hydrometallurgical leaching like acid or alkali, to dissolve Zn and Pb or As or Sb selectivity from oxide mixture [53,20]
 Volatilisation in fuming furnaces to separate volatile metals from residue [21]
 Stabilization or solidification to immobilise hazardous elements for safe handling [21]","High volatility of As or Pb or Cd, hazardous [48]","Recovery of valuable volatile metals (As or Sb or Bi or Zn) [53]","ZnO, Cu electrowinning, sponge Cd, concentrates of Zn and Pb or As or Sb [48]","V [30] ","Traces of PGMs, REEs for magnets [35]","Primarily rich in Cu, Cd, Zn (volatile components)
 V, Sn, Pb, As, Zn (detected strategic metals) [38]","Zincite (ZnO)
@@ -186,7 +186,7 @@ Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 Al – Greece, France, Croatia;"
-"Copper","Chalcopyrite (CuFeS2), bornite (Cu5FeS4) [53, 48]","Copper pyro metallurgical solid waste","Copper pyrometallurgy – smelting or refining [53, 18]","Stepwise hydrometallurgical leaching to dissolve Cu, Cd, Zn and traceable precious metals [53]
+"Copper","Chalcopyrite (CuFeS2), bornite (Cu5FeS4) [53, 48]","Copper pyrometallurgical solid waste","Copper pyrometallurgy – smelting or refining [53, 18]","Stepwise hydrometallurgical leaching to dissolve Cu, Cd, Zn and traceable precious metals [53]
 Slag reduction (Fe and Cu alloy formation) to liberate metal entrapped in silicate phases [33]
 Purification of Zn–bearing streams for secondary metal recovery [33]","Complex matrix, requires multi–stage processing [53]","High value extraction of Au–Ag–Cu [53]","Zn compounds, recovery of Cu, Au, Ag [53]","As [53]","Cu [53]","Cu (0.25–20%)
 Fe
@@ -268,7 +268,7 @@ Si – widely present in EU;
 Ga – absence or limited primary production in EU;"
 "Nickel","Laterites ore (nickeliferous limonite), Pentlandite ((Ni,Fe)9S8) [48, 44]","High–Pressure Acid Leaching (HPAL) tailings or Fe–oxyhydroxide residues","Nickel laterite – High Pressure Acid Leaching (HPAL) [48, 44]","Selective acid or alkali leaching to recover Ni, Co, Sc, and REEs from Fe–oxyhydroxide matrix [48]
 Neutralization or precipitation to stabilize dissolved metals and reduce process acidity [21]
-Geopolymer formation (alkali activation) for construction applications [21]","Acid–consuming gangue [ geochemical instability [49]","Sc value dominates the economies [48, 41]","Sc oxide, ferronickel alloy, geopolymer binders, road base, tiles [41,48]","Sc, V [41]","Ni (battery grade), Co [48]","Iron–oxyhydroxides (Fe ~41.9%) with residual Mg (~1.8%), Al (~2.2%), Ni (~1.2%) and Co (traces) [23]","Goethite (FeO(OH))
+Geopolymer formation (alkali activation) for construction applications [21]","Acid–consuming gangue [ geochemical instability [49]","Sc value dominates the economies [48, 41]","Sc oxide, ferronickel alloy, geopolymer binders, road base, tiles [41,48]","Sc, V [41]","Ni (battery grade), Co [48]","Iron–oxyhydroxides (Fe ~41.9%) with residual content of Mg (~1.8%), Al (~2.2%), Ni (~1.2%) and Co (traces) [23]","Goethite (FeO(OH))
 Hematite (Fe2O3)
 Talc
 Birnessite
@@ -277,7 +277,7 @@ Fe – Sweden, Germany, Austria;
 Al – Greece, France, Croatia;
 Mg – Slovakia, Greece, Turkiye, Spain, Austria;
 Co – Finland;"
-"Ferrochrome (Fe Cr)","Chromite concentrates (FeCr2O4) [33, 23]","Ferrochrome slag","FeCr smelting – submerged arc furnaces [13, 23]","Alkali roasting to convert Cr into extractable sodium chromate or chromite species [51]
+"Ferrochrome (FeCr)","Chromite concentrates (FeCr2O4) [33, 23]","Ferrochrome slag","FeCr smelting – submerged arc furnaces [13, 23]","Alkali roasting to convert Cr into extractable sodium chromate or chromite species [51]
 Magnetic separation to recover Fe–rich or Cr–rich spinel fractions [21]
 Accelerated carbonation to immobilize Cr(VI) and stabilizes the material [51]","Cr(III) or Cr(VI) stability, spinel bound Cr [48]","Cr(VI) management cost with Cr recovery value [48]","Ferrochromite alloy, alkali chromates, aggregates, cementitious filler [48]","Not applicable","Not applicable","MgO
 Al2O3
@@ -291,7 +291,7 @@ Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 Mg – Slovakia, Greece, Turkiye, Spain, Austria;"
-"Ferromanganese (Fe Mn)","Manganese ores (MnO2, Mn3O4) [7, 13]","Ferro manganese slag","FeMn smelting – submerged arc furnaces [13, 23]","Acidic leaching to extract Mn from its silicate phases [20]
+"Ferromanganese (FeMn)","Manganese ores (MnO2, Mn3O4) [7, 13]","Ferro manganese slag","FeMn smelting – submerged arc furnaces [13, 23]","Acidic leaching to extract Mn from its silicate phases [20]
 Roasting to convert Mn–bearing phases into more leachable oxides [44]
 Carbonate precipitation to obtain MnCO3 or MnSO4 intermediates [20]","Variable mineralogy, Leaching of Mn [13]","Mn recovery for battery–grade chemicals [13]","Electrolytic Mn metal, MnSO4, MnCO3, Supplementary Cementitious Material (SCM) [13]","Not applicable","Mn (battery grade) [13]","MnO
 SiO2
@@ -305,7 +305,7 @@ Hausmannite (potential) [58, 11]","Mn, Si, Ca, Al, Mg, REEs (La, Ce, Nd, Pr etc.
 Al – Greece, France, Croatia;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;"
-"Ferrosilicon (Fe Si)","Quartz (SiO2) and carbon reductant [23]","Ferro silicon slag","FeSi smelting – submerged arc furnaces [28, 13]","Si extraction through hydrometallurgical or thermal treatment [20]
+"Ferrosilicon (FeSi)","Quartz (SiO2) and carbon reductant [23]","Ferro silicon slag","FeSi smelting – submerged arc furnaces [28, 13]","Si extraction through hydrometallurgical or thermal treatment [20]
 Return to furnace as reductant or silicon source [ 21]
 Crushing into graded aggregates for low–value construction filler applications [20]","Silica phase variability, entrained metals [23]","Limited economic incentives unless viable Si extraction [23]","Silicates raw material, aggregates, amorphous Si [23]","Not applicable","Si metal [23]","SiO2​
 CaO
@@ -377,7 +377,7 @@ Chromite spinel [48]","Fe, Mg, Al, Si, Cr, Ca, S, O [48]","Solid state: typicall
 Fe – Sweden, Germany, Austria;
 Al – Greece, France, Croatia;
 Mg – Slovakia, Greece, Turkiye, Spain, Austria;"
-"Manganese Processing ","Pyrolusite (mnO2), rhodochrosite (MnCO3) [5, 7, 48]","Manganese tailings","Mn beneficiation – tailings [4, 25]","Acid leaching to dissolve Mn oxides or carbonates [4]
+"Manganese Processing ","Pyrolusite (MnO2), rhodochrosite (MnCO3) [5, 7, 48]","Manganese tailings","Mn beneficiation – tailings [4, 25]","Acid leaching to dissolve Mn oxides or carbonates [4]
 High–gradient magnetic separation to isolate Mn–rich phases [27, 43]","Fe or Mn impurities, acid consumption [22]","Potential for significant Mn recovery is advantagous for battery–grade chemicals [48]","Mn concentrates, soil remediation minerals [24, 22]","Not applicable","Mn (battery grade) [13]","Mn (oxides or carbonates)
 SiO2
 Al2O3
@@ -387,7 +387,7 @@ Quartz (SiO2​) [48]","Mn, Si, Al, Fe, REEs [13]","Solid state: fine particulat
 Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;"
-"Manganese Processing ","Pyrolusite (mnO2), rhodochrosite (MnCO3) [5, 7, 48]","Electrolytic manganese residues (EMR)","Electrolytic Mn production – residues [48]","Neutralization to precipitate metal hydroxides [48]
+"Manganese Processing ","Pyrolusite (MnO2), rhodochrosite (MnCO3) [5, 7, 48]","Electrolytic manganese residues (EMR)","Electrolytic Mn production – residues [48]","Neutralization to precipitate metal hydroxides [48]
 Oxidation roasting to convert Mn phases into suitable oxide forms [48]","High acidity, ammonia content presence [13]","Value of Mn recovery is more significant than acidic residue's processing cost (processes like stabilization or neutralization) [48]","Mn2O3, MnSO4 for batteries, fertilizers [13]","Not applicable","Mn (battery grade) [13]","Mn
 Fe
 Si
@@ -424,7 +424,7 @@ Tantalite ([Fe,Mn]Ta2​O6​)
 Columbite [49]","Ta, Nb, Si, S, Al, Fe, Sn [48]","Solid state: stony or granular aggregate [50]","Included in secondary flow of >8.5 Mt/year [44]","Alkaline: silicate–glass matrix [50]","Low: vitrified silicate solid [48]","Nb – absence or limited primary production in EU;
 Ta – France, Spain;
 Sn – Portugal, Spain;"
-"Lithium–ion batteries","Cathode materials: NMC (LiNiMnCoO2), LCO (LiCoO2),LFP (LiFePO4) [48, 5]","Spent Li–ion battery (LIB) black mass ","LIB recycling – mechanical shredding and thermal treatment [5, 48]","Acid leaching to extract Li, Co, Ni, Mn into solutions [20]
+"Lithium–ion batteries (LIB)","Cathode materials: NMC (LiNiMnCoO2), LCO (LiCoO2),LFP (LiFePO4) [48, 5]","Spent Lithium–ion battery (LIB) black mass ","Lithium–ion battery (LIB) recycling  – mechanical shredding and thermal treatment [5, 48]","Acid leaching to extract Li, Co, Ni, Mn into solutions [20]
 Pyrometallurgical smelting to obtain alloy intermediate [49]
 Direct regeneration (re–lithiation) to restore cathode materials [25]","Heterogenous mix, binders inhibit leaching [48]","For EU strategy recovery of Co, Ni, Li metal is priority to achieve a net–zero carbon economy [48]","High–purity Li, Co, Ni salts, battery precursor materials [48]","Li (battery grade), Co, Ni, Mn (battery grade) [48]","Li, Co, Ni (battery grade), Mn (battery grade), Natural graphite [48]","Li (2–5%)
 Co (5–20%)
@@ -436,7 +436,7 @@ Spodumene polymorphs (α,γ,β) [48]","Li, Co, Ni, Mn, C, Al, Fe, P, O, Ti, F [4
 Co – Finland;
 Ni – Finland, Poland, Greece;
 Mn – Romania;"
-"Lithium–ion batteries","Cathode materials: NMC (LiNiMnCoO2), LCO (LiCoO2),LFP (LiFePO4) [48, 5]","Electrode sludges","LIB recycling – post–shredding separation [5, 48]","Electrolyte removal via washing or thermal stripping [20]
+"Lithium–ion batteries (LIB)","Cathode materials: NMC (LiNiMnCoO2), LCO (LiCoO2),LFP (LiFePO4) [48, 5]","Electrode sludges","Lithium–ion battery (LIB) recycling  – post–shredding separation [5, 48]","Electrolyte removal via washing or thermal stripping [20]
 Hydrometallurgical processing to dissolve active metals [25]
 C purification via calcination or activation process [36]","Electrolyte or polymer contamination [48]","Recovery of Co, Ni, Li metals from the refined sludges provide high purity precursors for manufacturing of battery [48]","C anode materials, NaF recovery, SiC [48]","Li (battery grade), Mn (battery grade) [48]","Li, Co, Ni (battery grade), Mn (battery grade) [48]","Pb
 Sb
@@ -449,7 +449,7 @@ Graphite [48]","Pb, Sb, As, Ni, Li, C [48]","Wet solid or sludge state: refined 
 Co – Finland;
 Ni – Finland, Poland, Greece;
 Pb – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal, Poland;"
-"E–waste (WEEE)","Printed circuit boards (PCBs), electronic components [12, 27]","Circuit board (PCB) concentrates","E–waste – shredding of smelting feed [20, 48, 12]","Comminution to liberate metal–bearing fractions [20]
+"E–waste (WEEE)","Printed Circuit Boards (PCBs), electronic components [12, 27]","Circuit board (PCB) concentrates","E–waste – shredding of smelting feed [20, 48, 12]","Comminution to liberate metal–bearing fractions [20]
 Pyrometallurgical smelting to concentrated metals [20]
 Hydrometallurgical leaching for metal recovery of Cu, Au, Ag, PGMs [49]","High organics present, multi–stage pretreatment required [48, 12]","Au concentration is high which can boost the profitability of electronic waste recycling [48]","Refined Au, Ag, Pd, secondary Cu or Al alloys [12, 48]","Ta, Be, PGMs (Pd) [48]","Cu, PGMs (Pt, Pd) [12]","Au (0.1–1.5%)
 Ag
@@ -461,7 +461,7 @@ Noble metal particulates (Au, Ag, Pd) [10,48]","Au, Ag, Pd, Cu, Sn, Ni, Al, Fe, 
 Ag – Poland, Sweden, Portugal, Spain, Finland, Romania, Bulgaria, Germany;
 Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Pd – Poland, Finland;"
-"E–waste (WEEE)","Printed circuit boards (PCBs), electronic components [12, 27]","Smelter slag from e–waste","E–waste – pyrometallurgical smelting [20, 48, 12]","Re–smelting to improve metal separation [20]
+"E–waste (WEEE)","Printed Circuit Boards (PCBs), electronic components [12, 27]","Smelter slag from e–waste","E–waste – pyrometallurgical smelting [20, 48, 12]","Re–smelting to improve metal separation [20]
 Selective leaching to dissolve valuable metals [20]","Halogens or organics contamination [48, 12]","Recovery of precious metals from the slags are major economic drivers for smelter operations [53]","Cu or PGM recovery, construction material [26]","Not applicable","Cu, PGMs [26]","Fe
 SiO2
 Al2O3
@@ -474,7 +474,7 @@ Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 "
-"E–waste (WEEE)","Printed circuit boards (PCBs), electronic components [12, 27]","Anode slimes from e–waste","Cu electrorefining of e–waste [20, 50]","Roasting to break refractory metal phases [50]
+"E–waste (WEEE)","Printed Circuit Boards (PCBs), electronic components [12, 27]","Anode slimes from e–waste","Cu electrorefining of e–waste [20, 50]","Roasting to break refractory metal phases [50]
 Sequential leaching to extract Au, Ag, PGMs [21]
 Electrorefining to obtain high–purity state of metals [50]","Complex multi–metal phases [50]","High enrichment of precious metals is one of the most profitable secondary source in the raw material sector [50]","Electro–AU, refined Ag, SE or Te products [50]","As, Sb [9]","PGMs, Cu [50]","Cu, Se, Sn, Pb and noble metals [50]","Naumannite (Ag2​Se)
 Cuprite (Cu2​O)
@@ -483,7 +483,7 @@ Metallic gold [50]","Cu, Se, Sn, Pb, Au, Ag, Pd, Pt, Sb, As [50]","Wet solid or 
 Ag – Poland, Sweden, Portugal, Spain, Finland, Romania, Bulgaria, Germany;
 Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Cu – Poland, Bulgaria, Finland, Romania, Spain, Sweden, Portugal;"
-"E–waste (WEEE)","Printed circuit boards (PCBs), electronic components [12, 27]","Smelter flue dust and baghouse dust","Smelting – off–gas cleaning [20, 48]","Hydrometallurgical volatilization to recover Zn, Pb, Cd, As metals [20]
+"E–waste (WEEE)","Printed Circuit Boards (PCBs), electronic components [12, 27]","Smelter flue dust and baghouse dust","Smelting – off–gas cleaning [20, 48]","Hydrometallurgical volatilization to recover Zn, Pb, Cd, As metals [20]
 Stabilization to immobilize hazardous species [20]","Volatile toxic metals, stabilization required [30]","Recovery of valuable volatile metal generates significant revenue from off–gas treatment waste [38]","ZnSO4, ZnO, sponge Cd, Pb residues [48]","Not applicable","PGMs [48]","Zn (21.6%)
 Fe (29.5%)
 Si (5.6%)
@@ -558,7 +558,7 @@ Geopolymerization to immobilize residual toxic phases involving alkali activatio
 SiO2 (24%)
 Al2O3 (6%)
 Au (5–10 g/t)
-residual cyanide [46]","Quartz (SiO2​)
+Residual cyanide [46]","Quartz (SiO2​)
 Pyrite (FeS2​)
 Feldspar
 Mica
@@ -568,18 +568,18 @@ Hutura site; 13.5 Mt [17]","10.0–11.0: requires high pH for stabilization of c
 Fe – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;"
-"Refractory Au or PGM","Refractory ores, sperrylite (PtAs2) [50, 46, 26]","POX (Pressure Oxidation) residues and Roasting residues","Refractory Au or PGM – pressure oxidation or roasting [46, 20]","Pressure oxidation or roasting to oxidize sulfides and open mineral structures [46]
+"Refractory Gold or PGMs","Refractory ores, sperrylite (PtAs2) [50, 46, 26]","POX (Pressure Oxidation) residues and Roasting residues","Refractory Au or PGM – pressure oxidation or roasting [46, 20]","Pressure oxidation or roasting to oxidize sulfides and open mineral structures [46]
 Cyanidation or thiourea–leaching for liberated metals [21]
 Ar stabilization (Fe–As compounds) for ensuring safe handling [21]","High presence of As, requires stabilization [46]","Recovery of AU and PGM is highly valuable and using thiosulfate or halide leaching processes is technically feasible [46]","High–purity Au, PGM recovery, FE and S products [46]","As [26]","PGMs [26]","Iron oxides
-sulfates
-residual Au
+Sulfates
+Residual Au
 As [46]","Hematite (Fe2​O3​)
 Magnetite (Fe3​O4​)
 Calcium sulfate [46]","Fe, Au,Ca, As, O, S [46]","Solid state: fine particulate powder from refractory ore treatment [46]","Unavailable data","Acidic: formed from pressure oxidation of refractory sulfides [46]","Low: solid particulate powder prior to thermal treatment [46]","Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Fe – Sweden, Germany, Austria;
 As – Belgium;
 "
-"Refractory Au or PGM","Refractory ores, sperrylite (PtAs2) [50, 46, 26]","PGM slags","PGM smelting or converting [26]","Collector smelting (Cu–matte) to capture PGMs [26]
+"Refractory Gold or PGMs","Refractory ores, sperrylite (PtAs2) [50, 46, 26]","PGM slags","PGM smelting or converting [26]","Collector smelting (Cu–matte) to capture PGMs [26]
 Hydrometallurgical leaching for PGMs dissolution [21]","Low– grade PGM with complex matrix [26, 20]","Recovery of PGMs is highliy valuable and contributes extremely to SRM market [26]","Refined Pd or Pt or Rh concentrates, aggregates [26]","Not applicable","PGMs, Mg metal [26]","Al2O3
 SiO2
 MgO
@@ -606,15 +606,15 @@ Ag3Sn [50]","Ag, Au, Pt, Pd, Pb, Sb, As, Cu, Zn, Si, O, S, Sn, Bi, Se, Te [50]",
 Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Pb – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal, Poland;"
 "Sulfur capture (non–ferrous smelting)","Sulfide ores (i.e., chalcopyrites, galena, sphalerite) [7, 35]","Acid plant gypsum","Smelter off–gas in H2SO4 plant resulting in gypsum [53, 20]","Washing and removing of  impurities for reduction in halides or metals present [53]
-Solidification to improve mechanical or geo–environmental performance [53]","Impurities (Cl or F or heavy metals) affect reuse quality [30]","Utilised for low–cost construction feedstock for backfill materials and cement manufacturing [54]","Wallboard, cement clinker, backfill material [20, 30]","As, 53","Cu, 53","CaSO4.2HO
+Solidification to improve mechanical or geo–environmental performance [53]","Impurities (Cl or F or heavy metals) affect reuse quality [30]","Utilised for low–cost construction feedstock for backfill materials and cement manufacturing [54]","Wallboard, cement clinker, backfill material [20, 30]","As, 53","Cu, 53","CaSO4.2H2O
 F
 S
-heavy metal (traces) [54]","Gypsum (CaSO4​⋅2H2​O)
+Heavy metal (traces) [54]","Gypsum (CaSO4​⋅2H2​O)
 Bassanite (CaSO4​⋅0.5H2​O)
 Anhydrite [54]","Ca, S, O, H, F, Pb, Cl, Al, Fe, Mg, Si [54]","Solid state: crystalline particulate from smelter gas treatment [30]","Unavailable data","Acidic: sulfide gas treatment byproduct [30]","Low: crystalline dry particulate after industrial drying process [30]","As – Belgium;
 Gypsum – Spain, Germany, France, Poland, Romania, Greece, Latvia, Austria, Cyprus, Croatia, Portugal, Italy, Ireland, Bulgaria, Slovakia, Czechia;
 S – Poland, Greece, Sweden, Germany, Belgium, Bulgaria, France, Netherlands, Italy, Spain, Finland, Lithuania;"
-"Environmental Control or Refining","SCR emission control, petroleum refining [26, 19, 48]","Spent catalysts","Spent SCR or DeNOx or hydroprocessing catalysts [19, 26]","Smelting (wetting or settling technique) for PGM or Ni or V metal recovery [26]
+"Environmental control or refining","Selective Catalytic Reduction (SCR) emission control, petroleum refining [26, 19, 48]","Spent catalysts","Spent SCR or DeNOx or hydroprocessing catalysts [19, 26]","Smelting (wetting or settling technique) for PGM or Ni or V metal recovery [26]
 Hydrometallurgical leaching of V, Ni, PGMs for selective separation [50]
 Catalyst regeneration by removing poisons and re–activating supports [50]","V or Ni or As contamination, deactivation mechanisms [19, 48]","Presence of high value of V, W, Ni and PGM components make the recycling of catalyst highly profitable [19]","Refined Pd or Pt or Rh, regenerated catalysts [19, 26]","V, W, Ni (battery grade), PGMs [19]","PGMs, Ni (battery grade), Co, Ti metal [19]","TiO2 (79.0–85%)
 SiO2 (6.65%)

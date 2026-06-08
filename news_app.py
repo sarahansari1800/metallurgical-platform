@@ -386,6 +386,17 @@ else:
        # remove semicolon for better understanding
         st.markdown(f"- {clean_item.strip()}")
 
+    if len(filtered) == 1:
+       row = filtered.iloc[0]
+
+       for i in clean_text(row[cols[17]]):
+           clean_item = i.replace(";", "")
+           st.markdown(f"- {clean_item.strip()}")
+
+    else:
+        st.info("Please select a specific byproduct from the navigation dropdown to view the key metals and their indicative EU primary producers.")
+
+
 # =====================================
     # DOWNLOAD SECTION
     # =====================================
