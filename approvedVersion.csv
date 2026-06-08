@@ -2,15 +2,15 @@
 "Iron or Steel","Hematite (Fe2O3), magnetite (Fe3O4), limonite, siderite [43, 52, 23]","Blast Furnace (BF) slag ","Ironmaking – Blast Furnace (BF) [10, 7, 52]","Wet or air granulation to form glassy slag, produces latent hydraulic reactivity [43]
 Mechanical activation (i.e., grinding) to produce Supplementary Cementitious Material (SCM)  [38, 46]
 Accelerated carbonation with carbon dioxide sequestration leading to stabilization of reactive Ca phases [38]
-Thermal treatment for inducing crystallisation process for glass ceramics applications [43]
-Crushing and screening for aggregate production [43]","Variability in phase ratio, potential leaching of trace elements [7]","Contributes to the construction and cement industries by reducing carbon dioxide emissions and producing a high volume, low cost material [6, 43]","75% used for hydraulic binder, aggregates, clinker raw materials, glass ceramics, bricks, silica gel and adsorbents [52, 43]","Sc, V, REEs – LREEs and HREEs (La, Y, Nd, Ce) [23]","Mn, REEs for magnets ( Nd, Ce, Pr, Sm, Gd, Dy) [52]","CaO (28–51%)
+Thermal treatment for inducing crystallization process for glass ceramics applications [43]
+Crushing and screening for aggregate production [43]","Variability in phase ratio, potential leaching of trace elements [7]","Contributes to the construction and cement industries by reducing carbon dioxide emissions and producing a high volume, low cost material [6, 43]","75% used for hydraulic binder, aggregates, clinker raw materials, glass ceramics, bricks, silica gel and adsorbents [52, 43]","Sc, V, REEs – LREEs and HREEs (La, Y, Nd, Ce) [23]","Mn, REEs for magnets ( Nd, Ce, Pr, Sm, Gd, Dy) [10]","CaO (28–51%)
 SiO2 (26–40%)
 Al2O3 (6–20%)
 MgO (4–11%)
-Fe2O3 (<2%) [52]","Akermanite (Ca2MgSi2O7)
+Fe2O3 (<2%) [10]","Akermanite (Ca2MgSi2O7)
 Monticellite (CaMgSiO4)
 Gehlenite (Ca2Al2SiO7)​, (CaSO4SiO2)
-Primarily amorphous phase after rapidly cooling process [6]","Ca, Si, Al, Mg, Fe, S, Mn, Ti, K, Na and trace of REEs (La, Ce, Nd, Pr, Y, Er,Dy) [13]","Solid state: molten liquid during production stage forming granular or vitrified solid after air or water cooling [52]","150–347 kg/t Hot Metal (HM) (average of 249 kg/t) [38]","10.0–11.0: highly alkaline [6]","Negligible: solid oxide matrix after air or water cooling [52]","Fe and steel – Sweden, Germany, Austria;
+Primarily amorphous phase after rapidly cooling process [6]","Ca, Si, Al, Mg, Fe, S, Mn, Ti, K, Na and trace of REEs (La, Ce, Nd, Pr, Y, Er,Dy) [13]","Solid state: molten liquid during production stage forming granular or vitrified solid after air or water cooling [10]","340–421 kg/t Hot Metal (HM) (average of 249 kg/t) [38]","10.0–11.0: highly alkaline [6]","Negligible: solid oxide matrix after air or water cooling [10]","Fe and steel – Sweden, Germany, Austria;
 Si metal – France, Spain, Germany;
 Si – widely present in EU;
 Al – Greece, France, Croatia;
@@ -116,9 +116,9 @@ Ni – Finland, Poland, Greece;
 Mo – absence or limited primary production in EU;"
 "Steel (scrap–based)","Scrap steel, direct reduced iron [23, 38]","Ladle slag","Secondary steel refining – Ladle Furnace (LF) [52, 23, 43]","Aging to complete y–C2S (gamma–dicalcium silicate) transformation for preventing dust and stabilising expansion [17]
 Crushing and sieving for soil–stabilization feedstock used in cementitious applications [46]
-Mechanical activation (i.e., milling) of Supplementary Cementitious Material (SCM) or geopolymer to increase reactivity by fine grinding [38, 46]","High basicity and dusting,instability of volume [43]","Supplementary Cementitious Material (SCM) or geopolymer usage suitable for lowering the cement cost [23, 6]","Quicklime subsitute, soil stabilization, Supplementary Cementitious Material (SCM) or geopolymers [52, 23]","Al (bauxite) [52]","Mg metal [52]","CaO (30–65%)
-Al2O3 (5–37%)
-SiO2 (0.7–35%)
+Mechanical activation (i.e., milling) of Supplementary Cementitious Material (SCM) or geopolymer to increase reactivity by fine grinding [38, 46]","High basicity and dusting,instability of volume [43]","Supplementary Cementitious Material (SCM) or geopolymer usage suitable for lowering the cement cost [23, 6]","Quicklime subsitute, soil stabilization, Supplementary Cementitious Material (SCM) or geopolymers [52, 23]","Al (bauxite) [52]","Mg metal [52]","CaO (30–60%)
+Al2O3 (5–35%)
+SiO2 (2–35%)
 FeO (<10%)
 MgO (1–10%) [52]","Larnite (Ca2​SiO4​)
 Mayenite (Ca12Al14O33)
@@ -197,7 +197,7 @@ Fe – Sweden, Germany, Austria;
 Zn – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal;"
 "Copper or Lead or Zinc","Chalcopyrite (CuFeS2), galena (PbS), sphalerite (ZnS) [7, 35, 48]","Anode slimes","Electrorefining – anode slime collection [9, 50]","Oxidative roasting to break down refractory selenides or tellurides prior to leaching [50]
 Sequential leaching to selectively recover Ag, Se, Te, Au, and PGMs [6]
-Electrorefining to obtain high–purity Au or Ag and remaining Cu [50]","Complex multi–stage refining processes, hazardous Se or Te compounds presence [50, 9]","Extremely rich in noble metals leading to major economic driver [50, 9]","Refined Au, Ag, Se, Te, PGMs' concentrates [50, 9]","As, PGMs [50]","PGMs (Pt, Pd, Rh, Ru, Ir), Cu [50]","Ag (1–28%)
+Electrorefining to obtain high–purity Au or Ag and remaining Cu [50]","Complex multi–stage refining processes, hazardous Se or Te compounds presence [50, 9]","Extremely rich in noble metals leading to major economic driver [50, 9]","Refined Au, Ag, Se, Te, PGMs' concentrates [50, 9]","As, PGMs [50]","PGMs (Pt, Pd, Rh, Ru, Ir), Cu [50]","Ag (upto 28% in enriched fractions)
 Au (0.1–1.5%)
 PGMs (~70 g/t)
 Se, Te, Cu, Pb 
@@ -213,7 +213,7 @@ Te – 12.2% of refined Te is produced by EU;
 "
 "Zinc hydrometallurgy","Sphalerite (ZnS), EAF dust (zincite, franklinite) [48, 35]","Jarosite or goethite leach residues","Zn hydrometallurgy, iron removal step [37, 7, 35]","Acidic or alkaline leaching to dissolve Zn and Pb or Ag retained in jarosite or goethite matrix [7]
 Thermal conversion to hematite or magnetite to reduce hazardous leachability and improve stability [7]
-Stabilization of toxic elements through phase transformation [8]","Hazardous presence of Pb, Cd or Cr, low metal grade [48]","Value addition through hematite or magnetite production [48]","Zn, Pb Ag recovery, pigment magnetite [48]","As, Sc, V, Sb [44]","Ni (battery grade) [44]","Typically Zn–leach residues by hydrometallurgical process (Fe, Zn, Pb, S, In, Ag, Au) [50,42]","Ammonium jarosite (NH4​Fe3​(SO4​)2​(OH)6​)
+Stabilization of toxic elements through phase transformation [8]","Hazardous presence of Pb, Cd or Cr, low metal grade [35, 40]","Value addition through hematite or magnetite production [35, 40]","Zn, Pb Ag recovery, pigment magnetite [35, 40]","As, Sc, V, Sb [44]","Ni (battery grade) [44]","Typically Zn–leach residues by hydrometallurgical process (Fe, Zn, Pb, S, In, Ag, Au) [50,42]","Ammonium jarosite (NH4​Fe3​(SO4​)2​(OH)6​)
 Goethite (FeOOH)
 Magnetite (Fe3​O4​) [44]","Fe, Zn, Pb, S, In, Ag, Au, Cu, As, Cd, Hg, Sb, Ba [35]","Wet solid or sludge state: precipitated residue, often presented as filter cake [30]","Secondary industrial process waste from Zn/Fe leaching [23]","Acidic: sulfate–rich process with precipitate [30]","High: precipitate handled as wet filter cake) [30]","Fe – Sweden, Germany, Austria;
 Zn – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal;
@@ -298,7 +298,7 @@ SiO2
 CaO
 Al2O3
 MgO
-REEs (traces upto 3370ppm) [13]","Tephroite (Mn2​SiO4​)
+REEs (traces upto 3370 ppm) [13]","Tephroite (Mn2​SiO4​)
 Spinel [(Mn,Fe)(V,Cr)2​O4​]
 Manganosite (MnO​)
 Hausmannite (potential) [58, 11]","Mn, Si, Ca, Al, Mg, REEs (La, Ce, Nd, Pr etc.), Fe, Ba, P [13]","Solid state: granular or stony aggregate [13]","Unavailable data","Alkaline: stepwise precipitate process at pH 2.5–5.65 approximately [13]","Negligible: solid stony aggregates [13]","Mn – Romania;
@@ -406,8 +406,8 @@ Froth flotation for selective mineral beneficiation [27]
 Acid leaching of Sn or Nb or Ta metals for recovery purposes [42]","Complex mineralogy, fine particles [50]","Recovery of Nb and Ta represent high margin value from tailings in Sn–rich deposits [48]","Purified Sn, mullite ceramics, Nb or Ta concentrates [50, 48]","Nb, Ta [48]","Not applicable","Sn
 SiO2
 Al2O3
-Fe
-Nb, Ta (traces) [48]","Quartz (SiO2​)
+Fe matrix
+Nb and Ta (traces) [48]","Quartz (SiO2​)
 Cassiterite (SnO2​)
 Mica [48]","Sn, Si, Al, Fe, Nb, Ta, S [48]","Solid state: fine particulate material or slurry [48]","Unavailable data","Near neutral–slightly alkaline: depends on geological host rock [48]","40.0–60.0%: typically mining slurry moisture range [48]","Sn – Portugal, Spain;
 Fe – Sweden, Germany, Austria;
@@ -432,7 +432,7 @@ Ni (5–20%)
 Mn (5–15%)
 C–graphite (20–30%) [48]","Graphite
 Lithium cobalt oxide (LiCoO2​)
-Spodumene polymorphs (α,γ,β) [48]","Li, Co, Ni, Mn, C, Al, Fe, P, O, Ti, F [48]","Solid state: fine powder generated from mechanical shredding of residues [48]","Unavailable data","Acidic: processed in H2SO4 or HCl for recovery) [48]","Low: mechanically shredded dry powder [48]","Li – Portugal;
+Spodumene polymorphs (α,γ,β) [48]","Li, Co, Ni, Mn, C, Al, Fe, P, O, Ti, F [48]","Solid state: fine powder generated from mechanical shredding of residues [48]","Unavailable data","Acidic: typically processed in H2SO4 or HCl for recovery [48]","Low: mechanically shredded dry powder [48]","Li – Portugal;
 Co – Finland;
 Ni – Finland, Poland, Greece;
 Mn – Romania;"
@@ -457,7 +457,7 @@ Pd
 Cu
 Sn
 Pb in solid wt% [50,48]","Metallic alloy (Cu– Sn– Pb)
-Noble metal particulates (Au, Ag, Pd) [10,48]","Au, Ag, Pd, Cu, Sn, Ni, Al, Fe, Si, O [10,48]","Solid state: particulate fines or shredded board fragments [12]","Unavailable data","Acidic: processed in aqua regia or H2SO4) [12]","Low: shredded dry metallic particulate [12]","Cu – Poland, Bulgaria, Finland, Romania, Spain, Sweden, Portugal;
+Noble metal particulates (Au, Ag, Pd) [10,48]","Au, Ag, Pd, Cu, Sn, Ni, Al, Fe, Si, O [10,48]","Solid state: particulate fines or shredded board fragments [12]","Unavailable data","Acidic: processed in aquaregia or H2SO4) [12]","Low: shredded dry metallic particulate [12]","Cu – Poland, Bulgaria, Finland, Romania, Spain, Sweden, Portugal;
 Ag – Poland, Sweden, Portugal, Spain, Finland, Romania, Bulgaria, Germany;
 Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Pd – Poland, Finland;"
@@ -465,7 +465,7 @@ Pd – Poland, Finland;"
 Selective leaching to dissolve valuable metals [20]","Halogens or organics contamination [48, 12]","Recovery of precious metals from the slags are major economic drivers for smelter operations [53]","Cu or PGM recovery, construction material [26]","Not applicable","Cu, PGMs [26]","Fe
 SiO2
 Al2O3
-Cu (residual)
+Residual Cu
 Other strategic metals [48]","Fayalite (Fe2​SiO4​)
 Magnetite (Fe3​O4​)
 Cu–rich droplets
@@ -496,12 +496,11 @@ Zn – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal;
 Pb – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal, Poland;"
 "Phosphate Industry","Phosphate rocks (apatite) (Ca5(PO4)3(F,Cl,OH)) [48]","Phosphogypsum","Wet process phosphoric acid – gypsum precipitation [48, 44]","Washing and removing impurities to reduce radionuclides [20]
 Stabilization for safe construction material use [49]
-REE acid leaching from phosphate–linked minerals [49]","Radionuclides (U or Th), impurities presence [44]","Potential of REEs extraction for specific lanthanides exists but low bulk concentration challenge arises [48]","Cement or wallboard, bricks, soil amendments, REE extraction [44, 48]","Sc, P [23]","REEs for magnets (Nd, Dy, Pr, Ce etc.) [44]","CaSO4.2H2O
-P2O5 (residual)
-REEs (Nd, Pr)
-U (traces) [48]","Gypsum (CaSO4​⋅2H2​O)
+REE acid leaching from phosphate–linked minerals [49]","Radionuclides (U or Th), impurities presence [44]","Potential of REEs extraction for specific lanthanides exists but low bulk concentration challenge arises [48]","Cement or wallboard, bricks, soil amendments, REE extraction [44, 48]","Sc, P [23]","REEs for magnets (Nd, Dy, Pr, Ce etc.) [44]","Gypsum (CaSO4.2H2O)
+Residual P2O5
+REEs (Nd, Pr) and U (traces) [48]","Gypsum (CaSO4​⋅2H2​O)
 Brushite
-REE–phosphates [23, 48]","Ca, S, O, P, Nd, Pr, U, La, Ce, Y [13,48]","Solid state: fine crystalline particulate [44]","Unavailable data","Acidic: due to residual P2O5 or H3PO4 content as it is leached at pH 1 approximately [48]","Significant: handled as wet crystalline solid or stackable waste [44]","P – absence or limited primary production in EU;
+REE–phosphates [23, 48]","Ca, S, O, P, Nd, Pr, U, La, Ce, Y [13,48]","Solid state: fine crystalline particulate [44]","Unavailable data","Acidic: due to residual P2O5 or H3PO4 content as it is leached typically at pH 1 approximately [48]","Significant: handled as wet crystalline solid or stackable waste [44]","P – absence or limited primary production in EU;
 S – Poland, Greece, Sweden, Germany, Belgium, Bulgaria, France, Netherlands, Italy, Spain, Finland, Lithuania;
 REEs (LREEs, HREEs, REEs for magnet etc.) are mostly imported to EU due to no primary production;"
 "Phosphate Industry","Phosphate rocks (apatite) (Ca5(PO4)3(F,Cl,OH)) [48]","Phosphoric acid sludges","Phosphoric acid plant – filtration sludges [48, 44]","REE or U leaching to extract the critical minerals [48]
@@ -528,7 +527,7 @@ Rhabdophane [7]","Nd, Pr, Y, La, Ce, P, O, Th, heavy REEs [47]","Solid state: fi
 Y – absence or limited primary production in EU;"
 "Rare Earth Elements (REEs)","Carbonatite ores, ion–adsorption clays, REE (monazite, xenotime) [48, 47]","REE neutralization sludges","REE or acid process – neutralization [48]","Acid leaching to dissolve metals like Ni, Cr, Fe selectively [48]
 Precipitation to form pigment–grade magnetite [48]","High moisture content, variable REE present [48]","Potential for REEs extraction is high but the trace elements concentration to a grade suitable for market is considered to be feasible [48]","Ni or Cr pigments, magnetite [48]","Not applicable","Co, Ni (battery grade) [48]","Concentrated REE in hyroxides form [48]","Light REE hydroxides and carbonates
-Perovskite (CaTiO3​) [47]","La, Ce, Nd, Y, Pr, Sm, transition metals [48]","Wet solid or sludge state: precipitated metal hydroxides [48]","Unavailable data","7.0–9.5: product is pH adjusted [48]","High: effluent treatment product handled as wet filter cake [48]","REEs (LREEs, HREEs, REEs for magnet etc.) are mostly imported to EU due to no primary production;
+Perovskite (CaTiO3​) [47]","La, Ce, Nd, Y, Pr, Sm, transition metals [48]","Wet solid or sludge state: precipitated metal hydroxides [48]","Unavailable data","7.0–9.5: product is pH adjusted typically [48]","High: effluent treatment product handled as wet filter cake [48]","REEs (LREEs, HREEs, REEs for magnet etc.) are mostly imported to EU due to no primary production;
 Fe – Sweden, Germany, Austria;"
 "Titanium or REE","Ilmenite (FeTiO3), rutile (TiO2), monazite, xenotime [47]","TiO2 plant residues","TiO2 sulfate or chloride digestion residues [48]","Acid leaching to extract Ti or Mg or Al [48]
 Thermal roasting to liberate REE–bearing phases [37]","Sulfate or chloride load, Th or U traces [48]","Enrichment of Ti, Mg, Al provides high–performance catalysts and binders [48]","Ti or Mg or Al enriched catalysts, pigments [48]","V, Nb [48]","Ti metal, 49","Mg(Fe, Al)2O4 (82%)
@@ -606,7 +605,7 @@ Ag3Sn [50]","Ag, Au, Pt, Pd, Pb, Sb, As, Cu, Zn, Si, O, S, Sn, Bi, Se, Te [50]",
 Au – France, Bulgaria, Poland, Spain, Sweden, Finland, Greece, Romania, Slovakia;
 Pb – Bulgaria, Finland, Ireland, Greece, Spain, Sweden, Portugal, Poland;"
 "Sulfur capture (non–ferrous smelting)","Sulfide ores (i.e., chalcopyrites, galena, sphalerite) [7, 35]","Acid plant gypsum","Smelter off–gas in H2SO4 plant resulting in gypsum [53, 20]","Washing and removing of  impurities for reduction in halides or metals present [53]
-Solidification to improve mechanical or geo–environmental performance [53]","Impurities (Cl or F or heavy metals) affect reuse quality [30]","Utilised for low–cost construction feedstock for backfill materials and cement manufacturing [54]","Wallboard, cement clinker, backfill material [20, 30]","As, 53","Cu, 53","CaSO4.2H2O
+Solidification to improve mechanical or geo–environmental performance [53]","Impurities (Cl or F or heavy metals) affect reuse quality [30]","Utilised for low–cost construction feedstock for backfill materials and cement manufacturing [54]","Wallboard, cement clinker, backfill material [20, 30]","As, 53","Cu, 53","Gypsum (CaSO4.2H2O)
 F
 S
 Heavy metal (traces) [54]","Gypsum (CaSO4​⋅2H2​O)
