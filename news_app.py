@@ -378,13 +378,8 @@ else:
     st.markdown("### 🌍 Key Metals and their EU Primary Producers [39]")
 
     st.caption(
-        "*The associated EU countries corresponding to the metals are indicative and reported from RMIS data system. They do not imply on the exclusive geographical mapping.*"
+        "*The associated EU countries corresponding to the metals are indicative and reported from RMIS data system. They do not imply exclusive geographical mapping.*"
     )
-
-    for i in clean_text(row[cols[17]]):
-        clean_item = i.replace(";", "")  
-       # remove semicolon for better understanding
-        st.markdown(f"- {clean_item.strip()}")
 
     if len(filtered) == 1:
        row = filtered.iloc[0]
@@ -395,7 +390,6 @@ else:
 
     else:
         st.info("Please select a specific byproduct from the navigation dropdown to view the key metals and their indicative EU primary producers.")
-
 
 # =====================================
     # DOWNLOAD SECTION
