@@ -107,7 +107,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown(
     """
     <div style="font-size: 12px; color: grey;">
-    <i>*This prototype was developed by Sarah Ansari under the co-supervision of LUT University and VTT Finland as part of Master's thesis.</i>
+    <i>*This prototype was developed by Sarah Ansari (MEITIM program) under the co-supervision of LUT University (Department of Separation Science) and VTT Finland as part of Master's thesis.</i>
     </div>
     """,
     unsafe_allow_html=True
